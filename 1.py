@@ -1,10 +1,9 @@
 #
 #
-#
 # Progam    : program Hello world
 # Language  : Python
 # Author    : Nikhil Babu P
-#
+
 
 print('-------------------------')
 print('-------Hello world-------')
